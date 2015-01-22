@@ -8,7 +8,7 @@ class Example2{
         num = 100; //эта строка присваивает переменной num значение 100
         System.out.println("Эта переменная num: " + num);
         num = num *2;
-        System.out.print("Значение прееменной num * 2 равно");
+        System.out.print("Значение прееменной num * 2 равно: ");
         System.out.println(num);
     }
 }
